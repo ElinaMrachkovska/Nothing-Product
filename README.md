@@ -6,7 +6,7 @@ The site is designed with a focus on clean aesthetics, premium product visualiza
 
  Live Preview
 
-DEMO LINK: (https://ElinaMrachkovska.github.io/My_Landing_Page/)
+DEMO LINK: [https://elinamrachkovska.github.io/My_Landing_Page/#]
 
 Figma design
 
