@@ -24,7 +24,7 @@
     margin: 0;
     font-size: 14px;
     line-height: 140%;
-    color: #9393a3;
+    color: $info-color;
   }
 
   &__text {
@@ -33,10 +33,10 @@
     margin: 0;
     font-size: 16px;
     line-height: 140%;
-    color: #191919;
+    color: $data-color;
 
     &:hover{
-      color: #7E7E83;
+      color: $hover-color;
       transition: all 0.3s;
     }
   }

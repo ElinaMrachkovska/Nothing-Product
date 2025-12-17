@@ -24,10 +24,6 @@
   }
 }
 
-.container {
-  @include content-padding-inline;
-}
-
 @mixin hover($property, $toValue) {
   transition: #{$property} 0.3s;
   &:hover {
@@ -57,8 +53,8 @@
   display: block;
   box-sizing: border-box;
   border: none;
-  background-color: #f8f8fa;
-  color: #292929;
+  background-color: $space-color;
+  color: $main-color-text;
   font-family: 'Space Mono', monospace;
 
   padding-inline: 16px;
@@ -74,13 +70,13 @@
     font-weight: 400;
 
     &::placeholder {
-      color: #292929;
+      color: $main-color-text;
       opacity: 1;
     }
   }
 
   &:focus {
-    border: 1px solid #292929;
+    border: 1px solid $main-color-text;
     outline: none;
     font-weight: 400;
   }

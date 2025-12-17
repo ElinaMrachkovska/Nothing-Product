@@ -57,8 +57,8 @@
     border-radius: 8px;
     height: 56px;
     width: 100%;
-    color: #fff;
-    background-color: #292929;
+    color: $background-color;
+    background-color: $main-color-text;
     box-sizing: border-box;
     transition:
       color 0.3s ease,
@@ -67,23 +67,23 @@
       transform 0.3s ease;
 
     &:hover {
-      color: #292929;
+      color: $main-color-text;
       box-sizing: border-box;
       font-weight: 700;
       border: 2px solid #f0f1f4;
-      background-color: #f8f8fa;
+      background-color: $space-color;
       transform: scale(1.1);
     }
 
     &:active {
-      color: #fff;
+      color: $background-color;
       box-sizing: border-box;
       font-weight: 700;
       background-color: #111;
     }
 
     &:focus {
-      color: #fff;
+      color: $background-color;
       box-sizing: border-box;
       font-weight: 700;
       background-color: #111;

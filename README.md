@@ -1,33 +1,29 @@
-Products of 'Nothing'
+ ## Nothing product
 
 Welcome to the Nothing Product Showcase repository!
 This project is a modern, minimalist website showcase dedicated to demonstrating the products of the tech brand Nothing (phones, earphones, and accessories).
 The site is designed with a focus on clean aesthetics, premium product visualization, and an intuitive user experience, aligning perfectly with the "Nothing" brand ethos. The project is ideal for presenting tech products in a contemporary digital space.
 
- Live Preview
+ ## Live Preview
 
-DEMO LINK: (https://elinamrachkovska.github.io/Nothing-Product)
+[DEMO LINK]: (https://elinamrachkovska.github.io/Nothing-Product)
 
-Figma design
+[Figma design]: (https://www.figma.com/design/iokZRyUGnv2TYGIciQWGkj/BOSE-New-Version--Copy-?node-id=6802-139&t=gYoH6TGzZBlfdbxr-1)
 
-(https://www.figma.com/design/iokZRyUGnv2TYGIciQWGkj/BOSE-New-Version--Copy-?node-id=6802-139&t=gYoH6TGzZBlfdbxr-1)
+## Technologies Used:
 
-Technologies Used
+GitHub,
+HTML5,
+CSS / SCSS (Sass),
+JavaScript (ES6+),
+Parcel,
+npm,
+json,
+Methodology BEM,
+Git / GitHub Pages,
+Figma,
 
-GitHub
-HTML5
-CSS / SCSS (Sass)
-JavaScript (ES6+)
-Parcel 
-npm 
-json
-Methodology BEM
-Git / GitHub Pages
-Figma 
-
-
-
-Technical Highlights
+## Technical Highlights
 
 Clear Product Focus: A minimalist landing page designed for the presentation of tech products (phones, earphones, accessories).
 

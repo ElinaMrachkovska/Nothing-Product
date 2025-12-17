@@ -25,7 +25,7 @@
       font-size: 12px;
       line-height: 16px;
       font-weight: 700;
-      color: #292929;
+      color: $main-color-text;
       letter-spacing: 2px;
       white-space: nowrap;
       
@@ -34,9 +34,10 @@
       transition: opacity 0.3s ease;
     }
 
-    &:hover::before {
-      opacity: 1;
-    }
+ &:hover::before,
+ &:focus::before {
+  opacity: 1;
+}
 
     @include on-desktop {
       &::before {
